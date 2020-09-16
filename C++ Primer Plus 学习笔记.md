@@ -4,11 +4,39 @@
 
 # 第 1 章 预备知识
 
+-   在`C`语言的基础上添加了 面向对象编程和泛型编程
+-   C++ 继承了`C`语言高效、简洁、快速和可移植性的传统
+-   `C++`的模板特性提供了另一种全新的编程方法--泛型编程
 
+## 基础概念：
 
+### C 语言编程原理
 
+### 泛型编程
+
+### 面向对象
 
 # 第 2 章 开始学习`C++`
+
+```C++
+// first.cpp
+#include <iostream>
+
+int main()
+{
+    using namespace std;
+    
+    cout << "Come up and C++ me some time.";
+    cout << endl;
+    cout << "You won't reget it!" << endl;
+    
+    cin.get();		//terminal main()
+    
+    return 0;
+}
+```
+
+
 
 
 
