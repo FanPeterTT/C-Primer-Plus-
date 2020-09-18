@@ -56,7 +56,9 @@ int main()
 
 # 第 6 章 分支语句和逻辑运算符
 
+## 字符库函数
 
+![image-20200918172124155](E:\工作\C-Primer-Plus-\C++ Primer Plus 学习笔记.assets\image-20200918172124155.png)
 
 # 第 7 章 函数`C++` 的编程模块
 
